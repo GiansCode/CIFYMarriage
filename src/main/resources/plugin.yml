@@ -1,0 +1,7 @@
+name: ${plugin}
+version: ${project.version}
+main: ${spigotPackage}
+author: "CodeItForYou"
+website: https://codeitforyou.com/
+description: ${description}
+softdepend: ["PlaceholderAPI"]

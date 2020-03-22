@@ -1,3 +1,7 @@
 
+menus:
+  married: 'marriedMenu'
+  notMarried: 'notMarriedMenu'
+
 settings:
   time: 5 # seconds
